@@ -1,0 +1,2 @@
+(this.webpackJsonpdeploy=this.webpackJsonpdeploy||[]).push([[0],{4:function(e,t,n){"use strict";n.r(t);n(1);var c=n(3),o=n.n(c),r=n(0);function s(){return Object(r.jsx)("div",{children:Object(r.jsx)("h2",{children:"Hello World"})})}o.a.render(Object(r.jsx)(s,{}),document.getElementById("root"))}},[[4,1,2]]]);
+//# sourceMappingURL=main.ae0135f3.chunk.js.map
