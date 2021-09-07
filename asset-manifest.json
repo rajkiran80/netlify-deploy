@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.js": "/netlify-deploy/static/js/main.85c853e9.chunk.js",
-    "main.js.map": "/netlify-deploy/static/js/main.85c853e9.chunk.js.map",
+    "main.js": "/netlify-deploy/static/js/main.25ae63ac.chunk.js",
+    "main.js.map": "/netlify-deploy/static/js/main.25ae63ac.chunk.js.map",
     "runtime-main.js": "/netlify-deploy/static/js/runtime-main.c42e644a.js",
     "runtime-main.js.map": "/netlify-deploy/static/js/runtime-main.c42e644a.js.map",
-    "static/js/2.e123ab96.chunk.js": "/netlify-deploy/static/js/2.e123ab96.chunk.js",
-    "static/js/2.e123ab96.chunk.js.map": "/netlify-deploy/static/js/2.e123ab96.chunk.js.map",
+    "static/js/2.683c0886.chunk.js": "/netlify-deploy/static/js/2.683c0886.chunk.js",
+    "static/js/2.683c0886.chunk.js.map": "/netlify-deploy/static/js/2.683c0886.chunk.js.map",
     "index.html": "/netlify-deploy/index.html",
-    "static/js/2.e123ab96.chunk.js.LICENSE.txt": "/netlify-deploy/static/js/2.e123ab96.chunk.js.LICENSE.txt",
+    "static/js/2.683c0886.chunk.js.LICENSE.txt": "/netlify-deploy/static/js/2.683c0886.chunk.js.LICENSE.txt",
     "static/media/im1.35b2fad8.jpg": "/netlify-deploy/static/media/im1.35b2fad8.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.c42e644a.js",
-    "static/js/2.e123ab96.chunk.js",
-    "static/js/main.85c853e9.chunk.js"
+    "static/js/2.683c0886.chunk.js",
+    "static/js/main.25ae63ac.chunk.js"
   ]
 }
